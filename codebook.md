@@ -126,7 +126,7 @@ dt: combine original data with suject and activities data
 tidydt: store the mean value group by subject and activity.
 
 
-# Copied from readme.txt in original dataset.
+# Copied from README.txt in original dataset.
 
 > ==================================================================
 > Human Activity Recognition Using Smartphones Dataset
