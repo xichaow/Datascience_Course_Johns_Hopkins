@@ -125,7 +125,8 @@ dt: combine original data with suject and activities data
 
 tidydt: store the mean value group by subject and activity.
 
-Reference: 
+
+# Reference
 Copied from readme.txt in original dataset.
 
 > ==================================================================
